@@ -1,0 +1,10 @@
+matplotlib
+numpy
+torch
+torchvision
+ipython
+jupyter
+ipython
+nbconvert
+tqdm
+optuna
