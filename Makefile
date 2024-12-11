@@ -1,7 +1,7 @@
 default: all
 #################@#################@#################@#################
 optuna:
-	optuna-dashboard sqlite:///data_cache/optuna-MNIST.sqlite3
+	optuna-dashboard sqlite:///optuna-MNIST.sqlite3
 	open http://127.0.0.1:8080/
 
 #################@#################@#################@#################
