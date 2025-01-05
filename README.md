@@ -11,3 +11,4 @@ Have you ever wondered about the origins of the values for image normalization i
 Strangest to me is the need for a three-digits precision. Here,  after finding the origin of these numbers for MNIST and ImageNet, I am testing if that precision is really important : guess what, it is not !
 
 * https://laurentperrinet.github.io/sciblog/posts/2024-12-09-normalizing-images-in-convolutional-neural-networks.html
+* https://nbviewer.org/github/laurentperrinet/2024-12-09-normalizing-images-in-convolutional-neural-networks/blob/main/2024-12-09-normalizing-images-in-convolutional-neural-networks.ipynb
