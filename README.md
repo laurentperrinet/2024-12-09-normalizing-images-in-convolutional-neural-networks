@@ -12,3 +12,6 @@ Strangest to me is the need for a three-digits precision. Here,  after finding t
 
 * https://laurentperrinet.github.io/sciblog/posts/2024-12-09-normalizing-images-in-convolutional-neural-networks.html
 * https://nbviewer.org/github/laurentperrinet/2024-12-09-normalizing-images-in-convolutional-neural-networks/blob/main/2024-12-09-normalizing-images-in-convolutional-neural-networks.ipynb
+
+* https://bsky.app/profile/laurentperrinet.bsky.social/post/3lezqnu3kms27
+* https://neuromatch.social/@laurentperrinet/113778272463667376
